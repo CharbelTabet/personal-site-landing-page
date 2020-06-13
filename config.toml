@@ -51,7 +51,7 @@ copyright = "&copy;2020 Charbel Tabet"
 
       [[params.links.list1.link]]
         text = "Instagram"
-        url = "www.instagram.com/charbeltabet"
+        url = "https://www.instagram.com/charbeltabet"
 
       [[params.links.list1.link]]
         text = "Linkedin"
